@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578439383457",
+    "project_id": "anne-cocuk-bulusma",
+    "storage_bucket": "anne-cocuk-bulusma.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578439383457:android:02c57898f4217489f9e3e0",
+        "android_client_info": {
+          "package_name": "com.anneccocuk.anne_cocuk_bulusma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQ4O-53n3D_PC0nfw54Dbj2hU8lM3_mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
